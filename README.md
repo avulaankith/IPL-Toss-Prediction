@@ -18,11 +18,10 @@ The aim of this project is to develop a predictive model that can forecast the o
 1. **Clone the Repository**: Use the following command to clone this repository to your local machine:
 
    ```git clone https://github.com/your-username/ipl20-dream11.git```
-2. **Navigate to Repository Directory**:Access the repository directory:
+2. **Navigate to Repository Directory**: Access the repository directory:
 
-    Copy code
     ```cd ipl20-dream11```
-3. **Open Jupyter Notebook**:Launch and run the dscfirst.ipynb Jupyter Notebook using Jupyter Notebook or JupyterLab:
+3. **Open Jupyter Notebook**: Launch and run the dscfirst.ipynb Jupyter Notebook using Jupyter Notebook or JupyterLab:
     ```jupyter notebook dscfirst.ipynb```
 4. **Notebook Usage**
     Follow the instructions and comments within the Notebook to understand the analysis, preprocessing, model building, and prediction process.
