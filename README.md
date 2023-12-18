@@ -4,7 +4,7 @@ This repository contains the necessary files and Jupyter Notebook (`dscfirst.ipy
 
 ## Overview
 
-The aim of this project is to develop a predictive model that can forecast the outcome of the coin toss in IPL matches. The Notebook (`dscfirst.ipynb`) within this repository demonstrates the process of data analysis, preprocessing, model building, and evaluation for toss prediction.
+This project aims to develop a predictive model that can forecast the outcome of the coin toss in IPL matches. The Notebook (`dscfirst.ipynb`) within this repository demonstrates the process of data analysis, preprocessing, model building, and evaluation for toss prediction.
 
 ## Folder Structure
 
@@ -23,7 +23,7 @@ The aim of this project is to develop a predictive model that can forecast the o
     ```cd ipl20-dream11```
 3. **Open Jupyter Notebook**: Launch and run the dscfirst.ipynb Jupyter Notebook using Jupyter Notebook or JupyterLab:
     ```jupyter notebook dscfirst.ipynb```
-4. **Notebook Usage**
+4. **Notebook Usage**:
     Follow the instructions and comments within the Notebook to understand the analysis, preprocessing, model building, and prediction process.
 
 # Dataset Information
