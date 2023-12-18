@@ -17,7 +17,7 @@ This project aims to develop a predictive model that can forecast the outcome of
 
 1. **Clone the Repository**: Use the following command to clone this repository to your local machine:
 
-   ```git clone https://github.com/your-username/ipl20-dream11.git```
+   ```git clone https://github.com/avulaankith/ipl20-dream11.git```
 2. **Navigate to Repository Directory**: Access the repository directory:
 
     ```cd ipl20-dream11```
